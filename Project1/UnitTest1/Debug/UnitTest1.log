@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+C:\Users\ISeeYou\Desktop\edc\AP\11\11.5.1\Project1\Project1\Source.cpp(147,28): warning C4018: '>=': signed/unsigned mismatch
+     Creating library C:\Users\ISeeYou\Desktop\edc\AP\11\11.5.1\Project1\Debug\UnitTest1.lib and object C:\Users\ISeeYou\Desktop\edc\AP\11\11.5.1\Project1\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\ISeeYou\Desktop\edc\AP\11\11.5.1\Project1\Debug\UnitTest1.dll
